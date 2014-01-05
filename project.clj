@@ -1,4 +1,4 @@
-(defproject optimus-jsx "0.1.0"
+(defproject optimus-jsx "0.1.1"
   :description "React JSX asset loader for Optimus."
   :url "http://github.com/magnars/optimus-jsx"
   :license {:name "Eclipse Public License"

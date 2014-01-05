@@ -4,8 +4,8 @@ A [React JSX](http://facebook.github.io/react/docs/jsx-in-depth.html) asset load
 
 ## Install
 
-- Add `[optimus-jsx "0.1.0"]` to `:dependencies` in your `project.clj`.
-- It requires Optimus version minimum `0.13.5`.
+- Add `[optimus-jsx "0.1.1"]` to `:dependencies` in your `project.clj`.
+- It requires Optimus version minimum `0.13.6`.
 
 ## Usage
 
