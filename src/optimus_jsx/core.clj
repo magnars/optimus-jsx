@@ -1,6 +1,6 @@
 (ns optimus-jsx.core
   (:require [clojure.string :as str]
-            [optimus.v8 :as v8]
+            [v8.core :as v8]
             [optimus.assets.creation :refer [last-modified existing-resource]]))
 
 (defn- escape [s]
